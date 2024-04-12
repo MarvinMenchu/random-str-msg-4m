@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-4m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MarvinMenchu/random-str-msg-4m.git"
+  },
+  "keywords": [],
+  "author": "Marvin Menchu <marvin.menchu@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarvinMenchu/npm-init/issues"
+  },
+  "homepage": "https://github.com/MarvinMenchu/npm-init#readme",
+  "bin": {
+    "random-str-msg-4m": "index.js"
+  },
+  "preferGlobal": true
+}
